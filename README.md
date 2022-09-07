@@ -8,6 +8,7 @@
 
 * [MQTT簡介](https://www.youtube.com/watch?v=yOMCKMpQsQg&t=3s)
 * [RPi簡介](https://github.com/victorgau/khpy_rpi_intro)
+* [Gradio](https://gradio.app/)
 
 ## 機器學習/深度學習簡介
 
@@ -19,6 +20,3 @@
 
 * [保護濕地、拯救地球](https://github.com/victorgau/wetland_opendata)
 
-## 其他相關連結
-
-* [Gradio](https://gradio.app/)
