@@ -1,6 +1,6 @@
 # 屏東縣政府AIOT分享
 
-本次分享的目標是要以現場實作的方式，讓聽眾了解底下各個技術。
+本次分享主要會以現場實作的方式，讓聽眾了解底下各個技術。
 
 本次分享投影片：[https://ppt.cc/fPKKCx](https://docs.google.com/presentation/d/1voS69_liTtxGENxFnp-k5Ddej700Jxbh5SrOBdrP5zM/edit?usp=sharing)
 
