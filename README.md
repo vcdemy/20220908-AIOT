@@ -1,4 +1,4 @@
-# 屏東縣政府AIOT分享
+# 製造業AIOT轉型新未來分享
 
 本次分享主要會以現場實作的方式，讓聽眾了解底下各個技術。
 
@@ -12,9 +12,9 @@
 
 ## 機器學習/深度學習簡介
 
-* [Teachable Machine簡介](https://teachablemachine.withgoogle.com/)
-* [MediaPipe簡介](https://google.github.io/mediapipe/)
-* [YOLO簡介](https://pypi.org/project/yolov5/)
+* [Teachable Machine使用簡介](https://teachablemachine.withgoogle.com/)
+* [MediaPipe使用簡介](https://google.github.io/mediapipe/)
+* [YOLO使用簡介](https://github.com/ultralytics/yolov5)
 
 ## 應用展示
 
